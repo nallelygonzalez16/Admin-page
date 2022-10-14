@@ -1,0 +1,10 @@
+
+
+.DivWithFlexRow{
+    display: flex;
+    margin: 50px 0px 10px 100px;
+}
+
+.ActionIcon:hover {
+    cursor: pointer;
+}
